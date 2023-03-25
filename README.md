@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://github.com/11WALTER11](https://github.com/11WALTER11)
+- 👨‍💻 All of my projects are available at [https://arishme.netlify.app/]
 
 - 📫 How to reach me **arish.gzp988@gmail.com**
 
