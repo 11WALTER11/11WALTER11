@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Arish Siddiqui</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![website](https://user-images.githubusercontent.com/81313264/230653269-ac433fae-bf0e-427a-a053-83b1c6e901ca.gif)
+
+![web-design](https://user-images.githubusercontent.com/81313264/230653738-33ad9382-02bb-4362-b5a6-730c1e08d9c8.gif)
 
 
 # 💫 About Me:
