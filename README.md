@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Arish Siddiqui</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![website](https://user-images.githubusercontent.com/81313264/230653269-ac433fae-bf0e-427a-a053-83b1c6e901ca.gif)
+
+
 # 💫 About Me:
 
 - 🌱 I’m currently learning **MERN STACK**<br><br>- 👨‍💻 All of my projects are available at [https://arishme.netlify.app/]<br><br>- 📫 How to reach me **arish.gzp988@gmail.com**
