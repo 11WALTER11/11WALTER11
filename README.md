@@ -8,7 +8,7 @@
 # 💫 About Me:
 
 - 🌱 I’m currently learning **MERN STACK**<br><br>
-- 👨‍💻 All of my projects are available at [https://arishme.netlify.app/]<br><br>
+- 👨‍💻 All of my projects are available at www.arish.live <br><br>
 - 📫 How to reach me **arish.gzp988@gmail.com**
 
 
